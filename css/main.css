@@ -47,8 +47,14 @@ input[type='text'] {
 	justify-content: space-between;
 	align-items: center;
 	border: 2px solid rgba(0, 102, 255, 0.3);
+	text-transform: lowercase;
 }
 
 span {
 	margin: 0 2rem;
+}
+
+.highlight {
+	margin: 0;
+	background-color: yellow;
 }
